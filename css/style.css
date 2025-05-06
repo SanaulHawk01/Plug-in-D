@@ -1,0 +1,49 @@
+/*font family*/
+
+    @font-face{
+    src: url();
+    font-family: ;
+}
+
+/*font family*/
+
+/*Common css Start*/
+
+:root{
+    --popr:"";
+    --bl: ;
+}
+
+body{
+    
+}
+
+/*Common css End*/
+
+/*counter*/
+
+.counter_{
+    padding: 80px 0;
+}
+
+.counter_contents{}
+
+/*animation*/
+
+.animation{}
+
+.animation_contents{}
+
+.wow_content{}
+
+.wow_item{
+    padding-top: 70px;
+}
+
+.aos_content{
+    padding: 100px 0 100px;
+}
+
+.aos_item{
+    padding-top: 70px;
+}
