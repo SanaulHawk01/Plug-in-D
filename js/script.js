@@ -36,3 +36,13 @@ $(document).ready(function(){
   });
 
 });
+
+// preloader 
+
+$(function () {
+  // preloader start
+  $(window).load(function () {
+    $("#loading").fadeOut(1000);
+  });
+  // preloader end
+});
